@@ -1,0 +1,95 @@
+2021-06-30 14:59:55,810 - Reading Coords - INFO - <module>:171 - Reading input from .tsv file
+2021-06-30 14:59:55,849 - Reading Coords - WARNING - <module>:171 - Chromosomes IDs do not match.
+2021-06-30 14:59:55,850 - Reading Coords - WARNING - <module>:171 - Matching them automatically. For each reference genome, most similar query genome will be selected. Check mapids.txt for mapping used.
+2021-06-30 14:59:56,236 - Reading Coords - INFO - <module>:171 - setting CP006105.2 as BK006934.2
+2021-06-30 14:59:56,237 - Reading Coords - INFO - <module>:171 - setting CP004488.2 as BK006935.2
+2021-06-30 14:59:56,238 - Reading Coords - INFO - <module>:171 - setting CP004578.2 as BK006936.2
+2021-06-30 14:59:56,238 - Reading Coords - INFO - <module>:171 - setting CP006317.1 as BK006937.2
+2021-06-30 14:59:56,239 - Reading Coords - INFO - <module>:171 - setting CP004738.2 as BK006938.2
+2021-06-30 14:59:56,240 - Reading Coords - INFO - <module>:171 - setting CP004833.2 as BK006939.2
+2021-06-30 14:59:56,241 - Reading Coords - INFO - <module>:171 - setting CP004968.2 as BK006940.2
+2021-06-30 14:59:56,241 - Reading Coords - INFO - <module>:171 - setting CP005272.2 as BK006941.2
+2021-06-30 14:59:56,242 - Reading Coords - INFO - <module>:171 - setting CP005061.2 as BK006942.2
+2021-06-30 14:59:56,243 - Reading Coords - INFO - <module>:171 - setting CP005174.1 as BK006943.2
+2021-06-30 14:59:56,243 - Reading Coords - INFO - <module>:171 - setting CP005369.2 as BK006944.2
+2021-06-30 14:59:56,244 - Reading Coords - INFO - <module>:171 - setting CP006421.1 as BK006945.2
+2021-06-30 14:59:56,245 - Reading Coords - INFO - <module>:171 - setting CP005470.2 as BK006946.2
+2021-06-30 14:59:56,245 - Reading Coords - INFO - <module>:171 - setting CP005572.1 as BK006947.3
+2021-06-30 14:59:56,246 - Reading Coords - INFO - <module>:171 - setting CP005666.2 as BK006948.2
+2021-06-30 14:59:56,247 - Reading Coords - INFO - <module>:171 - setting CP006197.2 as BK006949.2
+2021-06-30 14:59:56,566 - syri - INFO - <module>:252 - starting
+2021-06-30 14:59:56,568 - syri - INFO - <module>:252 - Analysing chromosomes: ['BK006934.2', 'BK006935.2', 'BK006936.2', 'BK006937.2', 'BK006938.2', 'BK006939.2', 'BK006940.2', 'BK006941.2', 'BK006942.2', 'BK006943.2', 'BK006944.2', 'BK006945.2', 'BK006946.2', 'BK006947.3', 'BK006948.2', 'BK006949.2']
+2021-06-30 14:59:56,648 - syri.BK006934.2 - INFO - mapstar:48 - BK006934.2 (17, 11)
+2021-06-30 14:59:56,648 - syri.BK006934.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006934.2
+2021-06-30 14:59:56,711 - syri.BK006934.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006934.2
+2021-06-30 14:59:56,781 - syri.BK006934.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006934.2
+2021-06-30 14:59:56,871 - syri.BK006935.2 - INFO - mapstar:48 - BK006935.2 (10, 11)
+2021-06-30 14:59:56,871 - syri.BK006935.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006935.2
+2021-06-30 14:59:56,890 - syri.BK006935.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006935.2
+2021-06-30 14:59:56,916 - syri.BK006935.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006935.2
+2021-06-30 14:59:57,041 - syri.BK006936.2 - INFO - mapstar:48 - BK006936.2 (10, 11)
+2021-06-30 14:59:57,041 - syri.BK006936.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006936.2
+2021-06-30 14:59:57,061 - syri.BK006936.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006936.2
+2021-06-30 14:59:57,063 - syri.BK006936.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006936.2
+2021-06-30 14:59:57,114 - syri.BK006937.2 - INFO - mapstar:48 - BK006937.2 (16, 11)
+2021-06-30 14:59:57,114 - syri.BK006937.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006937.2
+2021-06-30 14:59:57,134 - syri.BK006937.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006937.2
+2021-06-30 14:59:57,155 - syri.BK006937.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006937.2
+2021-06-30 14:59:57,238 - syri.BK006938.2 - INFO - mapstar:48 - BK006938.2 (34, 11)
+2021-06-30 14:59:57,238 - syri.BK006938.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006938.2
+2021-06-30 14:59:57,263 - syri.BK006938.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006938.2
+2021-06-30 14:59:57,286 - syri.BK006938.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006938.2
+2021-06-30 14:59:57,398 - syri.BK006939.2 - INFO - mapstar:48 - BK006939.2 (16, 11)
+2021-06-30 14:59:57,398 - syri.BK006939.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006939.2
+2021-06-30 14:59:57,419 - syri.BK006939.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006939.2
+2021-06-30 14:59:57,442 - syri.BK006939.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006939.2
+2021-06-30 14:59:57,515 - syri.BK006940.2 - INFO - mapstar:48 - BK006940.2 (7, 11)
+2021-06-30 14:59:57,515 - syri.BK006940.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006940.2
+2021-06-30 14:59:57,541 - syri.BK006940.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006940.2
+2021-06-30 14:59:57,543 - syri.BK006940.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006940.2
+2021-06-30 14:59:57,589 - syri.BK006941.2 - INFO - mapstar:48 - BK006941.2 (26, 11)
+2021-06-30 14:59:57,589 - syri.BK006941.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006941.2
+2021-06-30 14:59:57,615 - syri.BK006941.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006941.2
+2021-06-30 14:59:57,641 - syri.BK006941.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006941.2
+2021-06-30 14:59:57,762 - syri.BK006942.2 - INFO - mapstar:48 - BK006942.2 (14, 11)
+2021-06-30 14:59:57,763 - syri.BK006942.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006942.2
+2021-06-30 14:59:57,789 - syri.BK006942.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006942.2
+2021-06-30 14:59:57,790 - syri.BK006942.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006942.2
+2021-06-30 14:59:57,858 - syri.BK006943.2 - INFO - mapstar:48 - BK006943.2 (32, 11)
+2021-06-30 14:59:57,858 - syri.BK006943.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006943.2
+2021-06-30 14:59:57,884 - syri.BK006943.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006943.2
+2021-06-30 14:59:57,908 - syri.BK006943.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006943.2
+2021-06-30 14:59:58,011 - syri.BK006944.2 - INFO - mapstar:48 - BK006944.2 (15, 11)
+2021-06-30 14:59:58,011 - syri.BK006944.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006944.2
+2021-06-30 14:59:58,032 - syri.BK006944.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006944.2
+2021-06-30 14:59:58,053 - syri.BK006944.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006944.2
+2021-06-30 14:59:58,144 - syri.BK006945.2 - INFO - mapstar:48 - BK006945.2 (89, 11)
+2021-06-30 14:59:58,144 - syri.BK006945.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006945.2
+2021-06-30 14:59:58,180 - syri.BK006945.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006945.2
+2021-06-30 14:59:58,182 - syri.BK006945.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006945.2
+2021-06-30 14:59:58,591 - syri.BK006946.2 - INFO - mapstar:48 - BK006946.2 (22, 11)
+2021-06-30 14:59:58,591 - syri.BK006946.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006946.2
+2021-06-30 14:59:58,612 - syri.BK006946.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006946.2
+2021-06-30 14:59:58,634 - syri.BK006946.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006946.2
+2021-06-30 14:59:58,711 - syri.BK006947.3 - INFO - mapstar:48 - BK006947.3 (28, 11)
+2021-06-30 14:59:58,711 - syri.BK006947.3 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006947.3
+2021-06-30 14:59:58,733 - syri.BK006947.3 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006947.3
+2021-06-30 14:59:58,754 - syri.BK006947.3 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006947.3
+2021-06-30 14:59:58,860 - syri.BK006948.2 - INFO - mapstar:48 - BK006948.2 (23, 11)
+2021-06-30 14:59:58,860 - syri.BK006948.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006948.2
+2021-06-30 14:59:58,882 - syri.BK006948.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006948.2
+2021-06-30 14:59:58,902 - syri.BK006948.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006948.2
+2021-06-30 14:59:59,007 - syri.BK006949.2 - INFO - mapstar:48 - BK006949.2 (23, 11)
+2021-06-30 14:59:59,007 - syri.BK006949.2 - INFO - mapstar:48 - Identifying Synteny for chromosome BK006949.2
+2021-06-30 14:59:59,035 - syri.BK006949.2 - INFO - mapstar:48 - Identifying Inversions for chromosome BK006949.2
+2021-06-30 14:59:59,059 - syri.BK006949.2 - INFO - mapstar:48 - Identifying translocation and duplication for chromosome BK006949.2
+2021-06-30 14:59:59,213 - getCTX - INFO - <module>:252 - Identifying cross-chromosomal translocation and duplication for chromosome2021-06-30 14:59:59.213784
+2021-06-30 15:00:00,568 - Brute-force TD identification - INFO - mapstar:48 - Cluster is too big for Brute Force, using randomized-greedy approach
+Time taken for last iteration 0.00034499168395996094. iterations remaining 38
+2021-06-30 15:00:04,378 - Brute-force TD identification - INFO - mapstar:48 - Cluster is too big for Brute Force, using randomized-greedy approach
+Time taken for last iteration 0.0001900196075439453. iterations remaining 35
+2021-06-30 15:00:05,458 - local_variation - INFO - <module>:263 - Finding SVs in synOut.txt, invOut.txt, TLOut.txt, invTLOut.txt, ctxOut.txt
+2021-06-30 15:00:07,783 - local_variation - INFO - <module>:281 - Finding SNPs and small indels
+2021-06-30 15:00:20,128 - local_variation - INFO - <module>:294 - Combining outputs
+2021-06-30 15:00:20,193 - local_variation - INFO - <module>:299 - Generating table output
+2021-06-30 15:00:29,129 - local_variation - INFO - <module>:304 - Generating VCF
